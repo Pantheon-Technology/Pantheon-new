@@ -23,8 +23,8 @@
         </div>
         <div class="col-md-4 col-xl-2 mb-8 mb-xl-0">
           <ul class="footer-menu list-unstyled mb-0 d-flex flex-column gap-2">
-            <li><a class="link-hover fs-5 text-white" href="https://www.instagram.com/pantheon.technology/">Instagram</a></li>
-            <li><a class="link-hover fs-5 text-white" href="https://x.com/PantheonTechCo">Twitter/X</a></li>
+            <li><a class="link-hover fs-5 text-white" href="https://www.instagram.com/pantheon.technology/" target='_blank'>Instagram</a></li>
+            <li><a class="link-hover fs-5 text-white" href="https://x.com/PantheonTechCo" target='_blank'>Twitter/X</a></li>
           </ul>
         </div>
         <div class="col-md-4 col-xl-3 mb-8 mb-xl-0">

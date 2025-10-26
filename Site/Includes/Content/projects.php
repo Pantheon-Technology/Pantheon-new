@@ -111,26 +111,6 @@
             <div class="item">
               <div class="portfolio d-flex flex-column gap-6">
                 <div class="portfolio-img position-relative overflow-hidden">
-                  <img src="../assets/images/portfolio/adhdwiseuk.png" alt="ADHD Wise Logo" class="img-fluid">
-                  <div class="portfolio-overlay">
-                    <p
-                      class="position-absolute top-50 start-50 translate-middle justify-content-center bs-emphasis-color" style="color:white">
-                     ADHD Wise Uk is a leading brand in increasing awareness for ADHD in the UK. We completely overhauled their existing website and worked closely with the team to ensure the site was neuro-divergent friendly!
-</p>
-                  </div>
-                </div>
-                <div class="portfolio-details d-flex flex-column gap-3">
-                  <h3 class="mb-0">ADHD Wise UK</h3>
-                  <div class="hstack gap-2">
-                    <span class="badge text-dark border">Specialist Website</span>
-                    <span class="badge text-dark border">Website Upgrade</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="portfolio d-flex flex-column gap-6">
-                <div class="portfolio-img position-relative overflow-hidden">
                   <img src="../assets/images/portfolio/Positive-Progress.png" alt="Positive Progess Logo" class="img-fluid">
                   <div class="portfolio-overlay">
                     <p

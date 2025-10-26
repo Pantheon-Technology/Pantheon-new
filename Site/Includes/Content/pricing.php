@@ -185,9 +185,6 @@
             <div class="marquee w-100 d-flex align-items-center overflow-hidden">
               <div class="marquee-content d-flex align-items-center gap-8">
                 <div class="marquee-tag hstack justify-content-center">
-                  <img src="../assets/images/portfolio/adhdwiseuk.png" alt="partners" class="img-fluid">
-                </div>
-                <div class="marquee-tag hstack justify-content-center">
                   <img src="../assets/images/portfolio/Athena-background.png" alt="partners" class="img-fluid">
                 </div>
                 <div class="marquee-tag hstack justify-content-center">
