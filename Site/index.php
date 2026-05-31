@@ -26,8 +26,8 @@ include 'Includes/header.php';
             </div>
           </div>
           <div class="d-flex align-items-end gap-3" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-            <h1 class="mb-0 fs-16 text-white lh-1">Pantheon Technology</h1>
-            <a href="javascript:void(0)" class="p-1 ps-7 bg-primary rounded-pill">
+            <h1 class="mb-0 fs-16 text-white lh-1">See our services</h1>
+            <a href="#services" class="p-1 ps-7 bg-primary rounded-pill">
               <span class="bg-white round-52 rounded-circle d-flex align-items-center justify-content-center">
                 <iconify-icon icon="lucide:arrow-up-right" class="fs-8 text-dark"></iconify-icon>
               </span>
@@ -44,7 +44,9 @@ include 'Includes/header.php';
    <?php include 'Includes/Content/projects.php' ?>
 
     <!-- section 3 - Services -->
+     <section id='services'>
    <?php include 'Includes/Content/services.php' ?>
+</section>
 
     <!--  Why choose us Section -->
     <?php include 'Includes/Content/whyUs.php' ?>

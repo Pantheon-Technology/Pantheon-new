@@ -22,7 +22,7 @@
             <span class="round-10 bg-dark bg-opacity-10 rounded-circle flex-shrink-0"></span>
           </div>
           <div class="hstack gap-4 flex-shrink-0">
-            <h4 class="mb-0">Motion & 3d modeling</h4>
+            <h4 class="mb-0">Mobile App Development</h4>
             <span class="round-10 bg-dark bg-opacity-10 rounded-circle flex-shrink-0"></span>
           </div>
           <div class="hstack gap-4 flex-shrink-0">
@@ -50,7 +50,7 @@
             <span class="round-10 bg-dark bg-opacity-10 rounded-circle flex-shrink-0"></span>
           </div>
           <div class="hstack gap-4 flex-shrink-0">
-            <h4 class="mb-0">Motion & 3d modeling</h4>
+            <h4 class="mb-0">Mobile App Development</h4>
             <span class="round-10 bg-dark bg-opacity-10 rounded-circle flex-shrink-0"></span>
           </div>
           <div class="hstack gap-4 flex-shrink-0">
@@ -78,7 +78,7 @@
             <span class="round-10 bg-dark bg-opacity-10 rounded-circle flex-shrink-0"></span>
           </div>
           <div class="hstack gap-4 flex-shrink-0">
-            <h4 class="mb-0">Motion & 3d modeling</h4>
+            <h4 class="mb-0">Mobile App Development</h4>
             <span class="round-10 bg-dark bg-opacity-10 rounded-circle flex-shrink-0"></span>
           </div>
           <div class="hstack gap-4 flex-shrink-0">
@@ -106,7 +106,7 @@
             <span class="round-10 bg-dark bg-opacity-10 rounded-circle flex-shrink-0"></span>
           </div>
           <div class="hstack gap-4 flex-shrink-0">
-            <h4 class="mb-0">Motion & 3d modeling</h4>
+            <h4 class="mb-0">Mobile App Development</h4>
             <span class="round-10 bg-dark bg-opacity-10 rounded-circle flex-shrink-0"></span>
           </div>
           <div class="hstack gap-4 flex-shrink-0">
@@ -134,7 +134,7 @@
             <span class="round-10 bg-dark bg-opacity-10 rounded-circle flex-shrink-0"></span>
           </div>
           <div class="hstack gap-4 flex-shrink-0">
-            <h4 class="mb-0">Motion & 3d modeling</h4>
+            <h4 class="mb-0">Mobile App Development</h4>
             <span class="round-10 bg-dark bg-opacity-10 rounded-circle flex-shrink-0"></span>
           </div>
           <div class="hstack gap-4 flex-shrink-0">
@@ -162,7 +162,7 @@
             <span class="round-10 bg-dark bg-opacity-10 rounded-circle flex-shrink-0"></span>
           </div>
           <div class="hstack gap-4 flex-shrink-0">
-            <h4 class="mb-0">Motion & 3d modeling</h4>
+            <h4 class="mb-0">Mobile App Development</h4>
             <span class="round-10 bg-dark bg-opacity-10 rounded-circle flex-shrink-0"></span>
           </div>
           <div class="hstack gap-4 flex-shrink-0">
@@ -190,7 +190,7 @@
             <span class="round-10 bg-dark bg-opacity-10 rounded-circle flex-shrink-0"></span>
           </div>
           <div class="hstack gap-4 flex-shrink-0">
-            <h4 class="mb-0">Motion & 3d modeling</h4>
+            <h4 class="mb-0">Mobile App Development</h4>
             <span class="round-10 bg-dark bg-opacity-10 rounded-circle flex-shrink-0"></span>
           </div>
           <div class="hstack gap-4 flex-shrink-0">
@@ -218,7 +218,7 @@
             <span class="round-10 bg-dark bg-opacity-10 rounded-circle flex-shrink-0"></span>
           </div>
           <div class="hstack gap-4 flex-shrink-0">
-            <h4 class="mb-0">Motion & 3d modeling</h4>
+            <h4 class="mb-0">Mobile App Development</h4>
             <span class="round-10 bg-dark bg-opacity-10 rounded-circle flex-shrink-0"></span>
           </div>
           <div class="hstack gap-4 flex-shrink-0">

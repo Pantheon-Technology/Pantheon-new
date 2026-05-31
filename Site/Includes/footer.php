@@ -1,4 +1,3 @@
-<?php include "Includes/servicesCarousel.php"?>
 <footer class="footer bg-dark py-5 py-lg-11 py-xl-12">
     <div class="container">
       <div class="row">
@@ -28,7 +27,7 @@
           </ul>
         </div>
         <div class="col-md-4 col-xl-3 mb-8 mb-xl-0">
-          <p class="mb-0 text-white text-opacity-70 text-md-end">© Pantheon Technology 2025</p>
+          <p class="mb-0 text-white text-opacity-70 text-md-end">© Pantheon Technology 2026</p>
         </div>
       </div>
     </div>
